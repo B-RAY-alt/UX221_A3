@@ -2,16 +2,6 @@
 <urlset>
     <url>
         <loc>
-            http://localhost:8000/the-rise-of-reasoning-models/
-        </loc>
-    </url>
-    <url>
-        <loc>
-            http://localhost:8000/multimodal-ai/
-        </loc>
-    </url>
-    <url>
-        <loc>
             http://localhost:8000/
         </loc>
     </url>
@@ -27,7 +17,57 @@
     </url>
     <url>
         <loc>
-            http://localhost:8000/category/ai/
+            http://localhost:8000/shop/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/cart/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/checkout/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/my-account/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/bpc-157-peptide/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/tb-500-peptide/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/cjc-1295-peptide/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/ipamorelin-peptide/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/ghk-cu-peptide/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products-category/injectable-peptides/
         </loc>
     </url>
     <url>
