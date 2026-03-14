@@ -1,0 +1,43 @@
+/*
+Theme Name: My Child Theme
+Template: twentytwentyfive
+Version: 1.0.0
+*/
+
+:root {
+  --clr-bg: #0a0a0f;
+  --clr-surface: #13131e;
+  --clr-primary: #ff2d78;
+  --clr-secondary: #00e5ff;
+  --clr-accent: #ffe600;
+  --clr-text: #f0f0ff;
+  --clr-muted: #8888aa;
+  --font-display: 'Syne', sans-serif;
+  --font-body: 'DM Sans', sans-serif;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Syne:wght@700;800&family=DM+Sans:wght@400;500&display=swap');
+
+body {
+  background-color: var(--clr-bg) !important;
+  color: var(--clr-text) !important;
+  font-family: var(--font-body) !important;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-display) !important;
+  color: var(--clr-text) !important;
+}
+
+a {
+  color: var(--clr-secondary) !important;
+}
+
+a:hover {
+  color: var(--clr-primary) !important;
+}
+
+:focus-visible {
+  outline: 3px solid var(--clr-accent) !important;
+  outline-offset: 3px !important;
+}
